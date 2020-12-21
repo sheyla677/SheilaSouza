@@ -5,10 +5,14 @@ G:\Projetos\TestePratico\SheilaSouza\Entity\bin\Debug\EntityFramework.dll
 G:\Projetos\TestePratico\SheilaSouza\Entity\bin\Debug\EntityFramework.SqlServer.dll
 G:\Projetos\TestePratico\SheilaSouza\Entity\bin\Debug\EntityFramework.xml
 G:\Projetos\TestePratico\SheilaSouza\Entity\bin\Debug\EntityFramework.SqlServer.xml
-G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.dll
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.pdb
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.Migrations.TestePratico.resources
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.csproj.GenerateResource.Cache
 G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.Migrations.AlteraCampoCPF.resources
+G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.csproj.CopyComplete
+G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.Migrations.AlterarCampos.resources
+G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.Migrations.IncluirCEPEndereco.resources
+G:\Projetos\TestePratico\SheilaSouza\Entity\obj\Debug\Entity.Migrations.AddCamposClientes.resources

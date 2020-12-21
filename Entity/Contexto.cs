@@ -1,4 +1,4 @@
-﻿using Entity.Migrations;
+using Entity.Migrations;
 using Entity.Models;
 using System;
 using System.Collections.Generic;
@@ -8,11 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Entity {
-	public class Contexto : DbContext{
+  public class Contexto : DbContext {
 
-		public DbSet<Cliente> Cliente { get; set; }
-
-		public Contexto() {
+    public DbSet<Cliente> Cliente { get; set; }
+    public Contexto() {
 			Database.SetInitializer(new MigrateDatabaseToLatestVersion<Contexto, Configuration>());
 		}
 	}

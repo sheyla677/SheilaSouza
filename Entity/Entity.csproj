@@ -57,6 +57,18 @@
     <Compile Include="Migrations\201905311802464_AlteraCampoCPF.Designer.cs">
       <DependentUpon>201905311802464_AlteraCampoCPF.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202012200320397_AlterarCampos.cs" />
+    <Compile Include="Migrations\202012200320397_AlterarCampos.Designer.cs">
+      <DependentUpon>202012200320397_AlterarCampos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202012202256225_IncluirCEPEndereco.cs" />
+    <Compile Include="Migrations\202012202256225_IncluirCEPEndereco.Designer.cs">
+      <DependentUpon>202012202256225_IncluirCEPEndereco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202012210051205_AddCamposClientes.cs" />
+    <Compile Include="Migrations\202012210051205_AddCamposClientes.Designer.cs">
+      <DependentUpon>202012210051205_AddCamposClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Cliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,6 +84,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201905311802464_AlteraCampoCPF.resx">
       <DependentUpon>201905311802464_AlteraCampoCPF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202012200320397_AlterarCampos.resx">
+      <DependentUpon>202012200320397_AlterarCampos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202012202256225_IncluirCEPEndereco.resx">
+      <DependentUpon>202012202256225_IncluirCEPEndereco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202012210051205_AddCamposClientes.resx">
+      <DependentUpon>202012210051205_AddCamposClientes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

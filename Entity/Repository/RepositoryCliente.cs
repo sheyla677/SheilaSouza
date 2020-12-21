@@ -1,4 +1,4 @@
-﻿using Entity.Models;
+using Entity.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -18,9 +18,6 @@ namespace Entity.Repository {
 			var contexto = new Contexto();
 			var clienteBd = contexto.Cliente.FirstOrDefault(x => x.Id == cliente.Id);
 			clienteBd.Nome = cliente.Nome;
-			clienteBd.Email = cliente.Email;
-			clienteBd.Sexo = cliente.Sexo;
-			clienteBd.Telefone = cliente.Telefone;
 			clienteBd.CPF = cliente.CPF;
 			clienteBd.DataNascimento = cliente.DataNascimento;
 
@@ -47,12 +44,12 @@ namespace Entity.Repository {
 
 		public List<Cliente> BuscarCliente(string busca) {
 			var contexto = new Contexto();
-			return contexto.Cliente.Where(x => x.Nome.Contains(busca) || x.Email.Contains(busca)).ToList();
+			return contexto.Cliente.Where(x => x.Nome.Contains(busca) || x.Sobrenome.Contains(busca)).ToList();
 		}
 
 		public List<Cliente> RetornarClientes() {
 			var contexto = new Contexto();
-			return contexto.Cliente.ToList();
+      return contexto.Cliente.ToList();
 		}
 	}
 }

@@ -94,9 +94,10 @@ G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\Microsoft.AI.ServerTelemetr
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\Microsoft.AI.WindowsServer.xml
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\Microsoft.AI.Web.xml
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\EntityFramework.xml
-G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.csprojResolveAssemblyReference.cache
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.csproj.CoreCompileInputs.cache
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.dll
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.pdb
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\EntityFramework.SqlServer.dll
 G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\bin\EntityFramework.SqlServer.xml
+G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.csprojAssemblyReference.cache
+G:\Projetos\TestePratico\SheilaSouza\SheilaSouza\obj\Debug\SheilaSouza.csproj.CopyComplete
